@@ -1,0 +1,34 @@
+fileFormatVersion: 2
+guid: 959405e0d68b534468aaca7be074cc78
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - respawn1: {instanceID: 0}
+  - respawn2: {instanceID: 0}
+  - player1: {instanceID: 0}
+  - player2: {instanceID: 0}
+  - RoundNow: {instanceID: 0}
+  - canvas: {instanceID: 0}
+  - BackPlate: {instanceID: 0}
+  - ExitGround: {instanceID: 0}
+  - name: {instanceID: 0}
+  - ex: {instanceID: 0}
+  - ret: {instanceID: 0}
+  - Name1: {instanceID: 0}
+  - Name2: {instanceID: 0}
+  - ScoreOne: {instanceID: 0}
+  - ScoreTwo: {instanceID: 0}
+  - Round: {instanceID: 0}
+  - NextRound: {instanceID: 0}
+  - exi: {instanceID: 0}
+  - retur: {instanceID: 0}
+  - NamePlayer1: {fileID: 114137316315243482, guid: eacbb8506948cfc49959cdd17243768d,
+      type: 2}
+  - NamePlayer2: {fileID: 114137316315243482, guid: 016d17f98b1375145b6d422ae1d90ea4,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
